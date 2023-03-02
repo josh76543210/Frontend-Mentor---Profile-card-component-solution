@@ -49,6 +49,7 @@ main {
   min-width: 25rem;
   background-color: #fff;
   border-radius: 2rem;
+  box-shadow: 0 2rem 4rem 2rem rgba(0, 0, 0, 0.12);
   overflow: hidden;
 }
 
